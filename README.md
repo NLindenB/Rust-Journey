@@ -71,15 +71,13 @@ This repository is a learning journey for my first low-level programming languag
 
 - ### **Rust is...**
 
-    A multi-paradigm, general-purpose, low-level programming language with
+  A multi-paradigm, general-purpose, low-level programming language that eliminates **certain classes** of common bugs (that could be present in **C** and **C++**) at compile time and contains these following features:
 
   - Direct access to hardware and memory,
   - Memory safety without garbage collection,
   - Optional reference counting,
   - Mechanisms for low-level memory management, and
-  - High-level features such as "Functional-Programming".
-
-    and Rust also eliminates **certain classes** of common bugs (that could be present in **C** and **C++**) at compile time.
+  - Other high-level features such as "Functional-Programming".
 
 <br>
 
