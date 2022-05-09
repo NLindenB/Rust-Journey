@@ -1,6 +1,6 @@
 <h1 align=center><strong>Rust Journey</strong></h1>
 
-This repository is a learning journey for my first low-level programming language. I chose **Rust** for its direct memory access, speed, and security features.
+This repository is a learning journey for my first low-level programming language. I chose **Rust** for its direct memory access, speed, and security features. Click [here](https://www.rust-lang.org/) to navigate to Rust's official website.
 
 <div align=center>
     <h1 align=center><strong>Table of Content</strong></h1>
