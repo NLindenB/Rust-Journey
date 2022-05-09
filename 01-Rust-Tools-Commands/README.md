@@ -42,17 +42,21 @@
 
     Cargo creates a new package for our Rust project with two distinctions `--bin` and `--lib`. It also initializes a new `git` repository **by default**.
 
-    - Create a new package for a binary program (**used by own project**):
+    - Create a new project for a binary program (**used by own project**):
 
         $ cargo new <PROJECT_NAME> --bin
 
-    - Create a new package for a library (**used by other projects**):
+    - Create a new project for a library (**used by other projects**):
 
         $ cargo new <PROJECT_NAME> --lib
 
-    - Create a new package without initialization of a `git` repository:
+    - Create a new project with different names for directory and package:
 
-        $ cargo new <PROJECT_NAME> --lib --vcs none
+        $ cargo new <DIR_NAME> --name <PACKAGE_NAME> --bin
+
+    - Create a new project without initialization of a `git` repository and different names:
+
+        $ cargo new <PACKAGE_NAME> --name <DIR_NAME> --bin --vcs none
 
 - ### **Compile** and **Run** the code in terminal
 

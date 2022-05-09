@@ -24,7 +24,7 @@ This repository is a learning journey for my first low-level programming languag
             <tr align=center>
                 <td>3.</td>
                 <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/02-Rust-Variables">Variables</a></td>
-                <td>Variable Declaration, Mutability</td>
+                <td>Variable Declaration, Mutability, Data Types</td>
             </tr>
             <tr align=center>
                 <td>4.</td>
