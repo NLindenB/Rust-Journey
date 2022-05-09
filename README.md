@@ -55,6 +55,12 @@ This repository is a learning journey for my first low-level programming languag
                 <td>9.</td>
                 <td><a href="#">Methods</a></td>
                 <td>Syntax, Enum Context, Struct Context, Associated Functions</td>
+            </tr>
+            <tr align=center>
+                <td>9.</td>
+                <td><a href="#LR">Rust Learning Resources</a></td>
+                <td>FreeCodeCamp, O'Reilly, Manning, No Starch Press, Rust Official Website</td>
+            </tr>
         </table>
     </div>
 </div>
@@ -63,7 +69,7 @@ This repository is a learning journey for my first low-level programming languag
 
 <h1 id="intro" align=center><strong>Introduction to Rust</strong></h1>
 
-- ## **Rust is...**
+- ### **Rust is...**
 
     A multi-paradigm, general-purpose, low-level programming language with
 
@@ -77,7 +83,7 @@ This repository is a learning journey for my first low-level programming languag
 
 <br>
 
-- ## **Rust was designed by...**
+- ### **Rust was designed by...**
 
   - Grayson Hoare at Mozilla Research;
   - Dave Herman;
@@ -86,7 +92,7 @@ This repository is a learning journey for my first low-level programming languag
 
 <br>
 
-- ## **Rust is best in situation where**
+- ### **Rust is best in situation where**
 
   - Runtime speed is needed;
   - Memory safety is required;
@@ -94,7 +100,7 @@ This repository is a learning journey for my first low-level programming languag
 
 <br>
 
-- ## **Rust is best applied for...**
+- ### **Rust is best applied for...**
   
   - High-performance web services (back end & micro services);
   - WebAssembly;
@@ -103,7 +109,7 @@ This repository is a learning journey for my first low-level programming languag
 
 <br>
 
-- ## **Rust benefits are...**
+- ### **Rust benefits are...**
 
   - Speed;
   - Safety through "Ownership" and "Borrowing";
@@ -111,9 +117,33 @@ This repository is a learning journey for my first low-level programming languag
 
 <br>
 
-- ## **Rust caveat is...**
+- ### **Rust caveat is...**
 
   - Steep learning curve.
+
+<br>
+
+<h1 id="LR" align=center>Rust Learning Resources<strong></strong></h1>
+
+- ### **Free Reading Materials**
+
+  - Official Documentation and Learning Page: https://www.rust-lang.org/learn
+  - Official Rust Learning Book ("The Book"): https://doc.rust-lang.org/stable/
+  - FreeCodeCamp Rust Course 2021: https://www.freecodecamp.org/news/rust-in-replit/
+
+- ### **Free Video Tutorials**
+  
+  - Rust in Motion from Manning by Carol Nichols and Jake Goulding: https://livevideo.manning.com/module/rust-in-motion/introduction-to-the-course-and-rust-syntax/introduction 
+  - FreeCodeCamp Rust Course 2021: https://youtu.be/MsocPEZBd-M
+
+- ### **Books for Rust Version 2021**
+
+  - Rust in Action by Tim McNamara (June 2021): https://www.manning.com/books/rust-in-action
+  - Rust Programming Version 2021 (O'Reilly)
+  - Rust for Crustaceans (No Starch Press, Dec 2021)
+  - Rust Servers, Services, and Apps by Prabhu Eshwarla (Manning, 2022)
+  - Command-Line Rust (O'Reilly, 2022)
+  - Rust for Web Development (O'Reilly, 2022)
 
 <br>
 
