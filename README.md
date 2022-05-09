@@ -23,37 +23,37 @@ This repository is a learning journey for my first low-level programming languag
             </tr>
             <tr align=center>
                 <td>3.</td>
-                <td><a href="#">Variables</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/02-Rust-Variables">Variables</a></td>
                 <td>Variable Declaration, Mutability</td>
             </tr>
             <tr align=center>
                 <td>4.</td>
-                <td><a href="#">Data Types</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/03-Rust-Data-Types">Data Types</a></td>
                 <td>Simple, Compounds</td>
             </tr>
             <tr align=center>
                 <td>5.</td>
-                <td><a href="#">Functions</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/04-Rust-Functions">Functions</a></td>
                 <td>Syntax, Calling, Returning Values</td>
             </tr>
             <tr align=center>
                 <td>6.</td>
-                <td><a href="#">Control Flow</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/05-Rust-Control-Flow">Control Flow</a></td>
                 <td>If-Else, Loop, While, For, Match</td>
             </tr>
             <tr align=center>
                 <td>7.</td>
-                <td><a href="#">Enums</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/06-Rust-Enums">Enums</a></td>
                 <td>Syntax, Variants with Extra Data</td>
             </tr>
             <tr align=center>
                 <td>8.</td>
-                <td><a href="#">Struct</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/07-Rust-Struct">Struct</a></td>
                 <td>Syntax, Usage, Tuple & Unit Structs</td>
             </tr>
             <tr align=center>
                 <td>9.</td>
-                <td><a href="#">Methods</a></td>
+                <td><a href="https://github.com/Aeternalis-Ingenium/Rust-Journey/tree/trunk/08-Rust-Methods">Methods</a></td>
                 <td>Syntax, Enum Context, Struct Context, Associated Functions</td>
             </tr>
             <tr align=center>
