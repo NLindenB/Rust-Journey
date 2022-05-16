@@ -9,8 +9,8 @@ fn main() {
     
     if answer.trim() == "rust" {
       break
-    }
-  }
+    };
+  };
   
   println!("You got it! Rust is the answer to all question in universe, just like 42!");
 }
