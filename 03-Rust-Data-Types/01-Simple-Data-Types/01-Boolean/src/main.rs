@@ -4,9 +4,9 @@ fn main() {
 	
 	if a {
 		println!("a is true!");
-	}
+	};
 
 	if b {
 		println!("b is true!");
-	}
+	};
 }
