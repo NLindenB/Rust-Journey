@@ -8,9 +8,7 @@ fn main() {
     io::stdin().read_line(&mut answer).expect("Failed to read line");
     
     if answer.trim() == "rust" {
-      break
+      break println!("You got it! Rust is the answer to all question in universe, just like 42!");
     };
   };
-  
-  println!("You got it! Rust is the answer to all question in universe, just like 42!");
 }
