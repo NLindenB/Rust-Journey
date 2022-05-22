@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "one-var-one-type"
+name = "type-annotation"
 version = "0.1.0"
