@@ -151,6 +151,6 @@ This repository is a learning journey for my first low-level programming languag
 
 ### **Who am I?**
 
-I'm a software engineer students at [CODE University of Applied Sciences](https://code.berlin/en/) and a working student at [FreeTech - Axel Springer Academy of Journalism and Technology](https://www.freetech.academy/en).
+I'm a software engineer student at [CODE University of Applied Sciences](https://code.berlin/en/) and a working student at [FreeTech - Axel Springer Academy of Journalism and Technology](https://www.freetech.academy/en).
 
 Please feel free to use this repository as your learning resource. If you have any further questions or remarks, don't hesitate to contact me at nino.lindenberg@code.berlin.
